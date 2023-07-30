@@ -24,6 +24,6 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
-![](https://imgur.com/a/g0dbUQl.jpg)
+![](https://imgur.com/aALiGfW)
 
 可自行新增/刪除事項，或是勾選已完成事項
