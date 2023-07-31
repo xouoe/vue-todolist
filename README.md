@@ -1,4 +1,10 @@
-# vue_test
+# vue_todolist
+
+
+![](https://i.imgur.com/aALiGfW.jpg)
+
+可自行**新增**/**刪除**/**編輯**事項，或是勾選已完成事項
+
 
 ## Project setup
 ```
@@ -24,6 +30,3 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
-![](https://i.imgur.com/aALiGfW.jpg)
-
-可自行**新增**/**刪除**/**編輯**事項，或是勾選已完成事項
